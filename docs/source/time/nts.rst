@@ -60,3 +60,5 @@ NTS-KE Server负责非对称，NTP Server负责对称，减少资源消耗型ddo
 通过AEAD减少劫持的风险
 
 通过NTP Server的(I, K)轮转减少非对称的资源消耗
+
+通过NTS Cookie Placeholder强制response<=request，防御放大攻击
