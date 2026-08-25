@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Cybersecurity Notes'
+project = 'Security Notes'
 copyright = '2025, Pan Lanlan (潘蓝兰)'
 author = 'Pan Lanlan (潘蓝兰)'
 
