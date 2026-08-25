@@ -1,6 +1,6 @@
-Cybersecurity Notes
+Security Notes
 ==========================
 
-网络安全笔记
+安全笔记
 
-https://cybersecurity-notes.readthedocs.io/
+https://security-notes.readthedocs.io/
