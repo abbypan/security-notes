@@ -92,6 +92,13 @@
 
 .. toctree::
    :maxdepth: 1
+   :caption: Database
+
+   database/m-ngac
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: local
 
    local/send
@@ -309,4 +316,3 @@
    :caption: Firewall
 
    firewall/spa
-
